@@ -17,7 +17,7 @@ public class WeeklyTimer{
 
     public WeeklyTimer(){
         CityProduce = new JsonFileProduce();
-        file = new File("D:/Spring/SmartWindow/src/main/webapp/txt/weather.txt");
+        file = new File("...../webapp/txt/weather.txt");
         writer = null;
         TimerParsing();
     }

@@ -1,0 +1,30 @@
+#chart_div > div > div:nth-child(1) > div > svg > g:nth-child(5) > g:nth-child(2) > g:nth-child(1) > rect{
+    fill: white;
+}
+#container,#container2{
+    border:1px solid gainsboro;
+}
+#weatherRow{
+    border-right:1px solid gainsboro;
+}
+#title1, #title2{
+    background-color: ghostwhite;
+    border-bottom:1px solid gainsboro;
+}
+#weatherIcon1, #weatherIcon2{
+    display : block;
+    margin: 50% auto;
+    max-width: 100%;
+    min-width: 65px;
+    height: auto;
+}
+#imgDiv1, #imgDiv2{
+    text-align: center;
+}
+.tempText{
+    float: left;
+}
+.tempSention{
+    max-font-size: 50px;
+    min-font-size: 10px;
+}

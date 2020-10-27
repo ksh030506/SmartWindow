@@ -39,11 +39,22 @@
 <br/>
 
 ## API 명세서
+```
+GET /
+```
+- Request
+```
+{
 
+}
+```
 
+- Response
+```
 
+```
 
-
-
-
+<br/>
+<br/>
+<br/>
 #### - 깃허브 : [GitHub/ksh030506](https://github.com/ksh030506)
